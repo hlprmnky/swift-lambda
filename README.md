@@ -3,11 +3,12 @@ AWS λ in Swift
 
 ## Building
 
-To build the zip file to upload to AWS, simply run `make`.
+To build the zip file to upload to AWS, simply run `make`. This will generate a file called `lambda.zip` in the `build` directory which you can upload to AWS.
 
 ## Dependencies
 
 Swift 3.0 Preview 3
+Ubuntu build environment (but see status below)
 
 ## Status
 
